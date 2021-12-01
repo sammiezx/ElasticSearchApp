@@ -7,6 +7,6 @@ get logical suggestions based on different queries
 i applied on a sample database of ecommerce orders
 from #Kibana
 
-I used NodeJS as the backend
-and minimal react needed for the frontend with just a simple searchbar
+I used #NodeJS as the backend
+and minimal #React needed for the frontend with just a simple searchbar
 
